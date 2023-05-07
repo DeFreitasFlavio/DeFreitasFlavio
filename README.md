@@ -7,7 +7,8 @@
 - 🌱 Je travaille quotidiennement sur ces technologies : <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> pour le web et pour le mobile <img src="https://img.shields.io/badge/flutter-323330?style=for-the-badge&logo=flutter&logoColor=OxFF2196F3"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   
 
-- 👯 Je cherche un alternance d'une durée de 3 ans pour mes pouvoir apprendre et étudié sur c'est 3 prochaines années en informatique dans le domaine du Développement Web ou Développement Mobile  
+- 👯 I am currently searching for a 2 year internship, to learn and develop at your side in the field of Web/Mobile Development.
+- 👯 Je recherche actuellement un alternance de 2 ans, pour pouvoir apprendre et developer a vos côté dans le domaine du Developpement Web/Mobile
   
 
 - 📫 Mail : flavio.defreitas@ynov.com  
